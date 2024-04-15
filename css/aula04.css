@@ -1,0 +1,36 @@
+.pacoca {
+    color: blue;
+}
+
+h2.pacoca {
+    color: coral;
+}
+
+#pacoquita {
+    background-color: darkgreen;
+}
+
+nav a {
+    color: black;
+    font-size: 60px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+/* seletor aqui em cima */
+
+article p {
+    background-color: rgb(140, 128, 151);
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+h1,h2 {
+    font-size: 60px;
+    color: aqua;
+}
+/* h1,h2 vai pegar em qualquer lugar que o h1 e o h2 esteja */

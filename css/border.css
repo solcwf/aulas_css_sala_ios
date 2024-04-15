@@ -1,0 +1,14 @@
+h1 {
+    border-bottom: 5px solid pink;
+    border-top: dotted blue;
+    border-left: solid pink;
+    border-right: solid pink;
+}
+
+p {
+    border-bottom: 5px solid pink;
+    border-top: 5px solid pink;
+    border-left: 5px solid pink;
+    border-right: 5px solid pink;
+    border-radius: 10px;
+} 

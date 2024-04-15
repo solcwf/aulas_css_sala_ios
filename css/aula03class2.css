@@ -1,0 +1,10 @@
+.corfundo{
+    background-color: silver;
+    text-align: center;
+    font: 20px;
+}
+
+p.cortexto{
+    color: green;
+    background-color: red;
+}

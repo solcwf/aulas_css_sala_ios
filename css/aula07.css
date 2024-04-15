@@ -1,0 +1,10 @@
+.container{
+    border: 1px solid;
+    padding: 5px;
+    overflow: auto;
+    /* overflow é quando temos um elemento dentro de qualquer caixa que eteja ultrapassando a linha, isso fara a imagem entrar novamente dentro da border */
+}
+
+.container img{
+    float: left
+}

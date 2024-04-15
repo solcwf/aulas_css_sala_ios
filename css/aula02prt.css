@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(157, 157, 247, 0.237);
+}
+    
+    
+    h1{
+ 
+    text-shadow: 1px 2px 5px rgba(255, 255, 255, 0.589);
+    background-color: rgb(22, 22, 136);
+    color: aliceblue;
+    
+}
+    
+h2{
+    background-color: rgba(28, 71, 211, 0.298);
+    color: rgb(35, 35, 127);
+    text-align: center;
+}
+         
+li{
+    color:  rgb(35, 35, 127);
+    
+}
+
+p{
+    color:  rgb(35, 35, 127);
+};

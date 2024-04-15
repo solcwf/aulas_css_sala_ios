@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(76, 17, 76);
+    color: white;
+}
+
+article p{
+    background-color: bisque;
+    color: black;
+}         

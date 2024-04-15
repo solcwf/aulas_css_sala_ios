@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+   
+    border: 30px solid pink;
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+    padding: 10px;
+}
+
+.box2{
+    padding: 10px;
+    border: 15px solid green;
+    width: 400px;
+    height: 400px;
+    background-color: darkslategray;
+   
+}

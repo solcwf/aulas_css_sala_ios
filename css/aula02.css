@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body {
+    font-family:Manrope;
+    background-color: #A6A5A4;
+    color: #594240;
+    font-size: 20px;
+   
+}
+
+h1{
+    color: rgb(240, 248, 255);
+   
+}
+
+h2{
+    color: rgb(240, 248, 255);
+}
+
+p{
+    font-family: Manrope;
+}
